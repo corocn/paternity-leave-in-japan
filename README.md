@@ -14,7 +14,10 @@
 | [株式会社サイバーエージェント](https://www.cyberagent.co.jp/) | インターネット広告、メディア、ゲーム事業など | [here](https://martin-lover-se.hatenablog.com/entry/2019/06/07/090036) | |
 | [株式会社エニグモ](https://enigmo.co.jp/) | ファッションEC BUYMA | [here](https://tech.enigmo.co.jp/entry/2020/10/02/120000) | |
 | [弥生株式会社](https://www.yayoi-kk.co.jp/) | 会計ソフト 弥生シリーズ、Misoca | [here](https://twitter.com/kosappi/status/1386301152342380547) | |
+| [株式会社カカクコム](https://corporate.kakaku.com/) | 食べログ、価格.com など | [here](https://note.com/tabelog_frontend/n/n3350f8ae0e31#2cYvB) | |
 | [株式会社キャスター](https://caster.co.jp/) | オンラインアシスタント CASTER BIZ, bosyu Jobs, Reworker など | [here](https://caster.co.jp/4626) | |
+
+https://note.com/tabelog_frontend/n/n3350f8ae0e31#2cYvB
 
 ## Contributing
 
