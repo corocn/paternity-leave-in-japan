@@ -13,7 +13,7 @@
 | [エムスリー株式会社](https://corporate.m3.com/) | 医療従事者向けのサービス m3.com 、MR君、AskDoctors | [here](https://www.m3tech.blog/entry/2018/05/10/132731) | |
 | [株式会社サイバーエージェント](https://www.cyberagent.co.jp/) | インターネット広告、メディア、ゲーム事業など | [here](https://martin-lover-se.hatenablog.com/entry/2019/06/07/090036) | |
 | [株式会社エニグモ](https://enigmo.co.jp/) | ファッションEC BUYMA | [here](https://tech.enigmo.co.jp/entry/2020/10/02/120000) | |
-| [株式会社弥生](https://www.yayoi-kk.co.jp/) | 会計ソフト 弥生シリーズ、Misoca | [here](https://twitter.com/kosappi/status/1386301152342380547) | |
+| [弥生株式会社](https://www.yayoi-kk.co.jp/) | 会計ソフト 弥生シリーズ、Misoca | [here](https://twitter.com/kosappi/status/1386301152342380547) | |
 | [株式会社キャスター](https://caster.co.jp/) | オンラインアシスタント CASTER BIZ, bosyu Jobs, Reworker など | [here](https://caster.co.jp/4626) | |
 
 ## Contributing
