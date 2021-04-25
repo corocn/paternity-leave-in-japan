@@ -6,7 +6,7 @@
 |-----|----|----|----|
 | [メルカリ](https://about.mercari.com/)| フリマアプリ「メルカリ」 | [here](https://www8.cao.go.jp/shoushi/shoushika/meeting/consortium/05/pdf/ikuji-1.pdf) | [あり](https://careers.mercari.com/jp/benefits/) |
 | [ピクシブ](https://www.pixiv.co.jp/)| Pixiv、BOOTH、Image Flux など | [here](https://inside.pixiv.blog/watasuke/5453) | |
-| [サイボウズ](https://cybozu.co.jp/) | グループウェア Kintone, Garoon など | [here](https://www.huffingtonpost.jp/cybozu/post_8919_b_6528018.html) | |
+| [サイボウズ](https://cybozu.co.jp/) | グループウェア Kintone, Garoon など | [here](https://gendai.ismedia.jp/articles/-/38155) | |
 | [DeNA](https://dena.com/jp/) | ゲーム、ヘルスケア事業など | [here](https://healthcare.dena.com/teams/topics/interview-higurashi/) | [あり](https://dldp.dena.com/) |
 | [スタディスト](https://studist.jp/)| マニュアル作成ツール Teachme Biz | [here](https://www.wantedly.com/companies/studist/post_articles/286495) | |
 | [Google](https://about.google/) | Google、Gmail、YouTube など | [here](https://kumagi.hatenablog.com/entry/ikukyu) | [あり](https://kumagi.hatenablog.com/entry/ikukyu) |
