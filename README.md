@@ -20,6 +20,7 @@
 | [ヌーラボ](https://nulab.com/ja/) | backlog, cacoo, typetalk | [here](https://twitter.com/Megumi_Isogawa/status/1386458371146993667) |  |
 | [コードタクト](https://codetakt.com/) | EdTech schooltakt | [here](https://ypresto.hatenablog.jp/entry/2018/05/05/130323) | |
 | [freee](https://www.freee.co.jp/) | クラウド会計ソフトfreee | [here](https://twitter.com/YuuuO/status/1386335226100555777) | |
+| [feedforce](https://www.feedforce.jp/) | デジタルマーケ、SaaS事業 | [here](https://media.feedforce.jp/n/nce64a0bd48ef) | |
 | [キャスター](https://caster.co.jp/) | CASTER BIZ, bosyu Jobs, Reworker など | [here](https://caster.co.jp/4626) | |
 
 ## Contributing
