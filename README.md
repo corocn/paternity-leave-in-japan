@@ -10,7 +10,7 @@
 | [DeNA](https://dena.com/jp/) | ゲーム、ヘルスケア事業など | [here](https://healthcare.dena.com/teams/topics/interview-higurashi/) | [あり](https://dldp.dena.com/) |
 | [スタディスト](https://studist.jp/)| マニュアル作成ツール Teachme Biz | [here](https://www.wantedly.com/companies/studist/post_articles/286495) | |
 | [Google](https://about.google/) | Google、Gmail、YouTube など | [here](https://kumagi.hatenablog.com/entry/ikukyu) | [あり](https://kumagi.hatenablog.com/entry/ikukyu) |
-| [エムスリー](https://corporate.m3.com/) | 医療従事者向けのサービス m3.com 、MR君、AskDoctors | [here](https://www.m3tech.blog/entry/2018/05/10/132731) | |
+| [エムスリー](https://corporate.m3.com/) | 医療従事者向けのサービス m3.com など | [here](https://www.m3tech.blog/entry/2018/05/10/132731) | |
 | [サイバーエージェント](https://www.cyberagent.co.jp/) | インターネット広告、メディア、ゲーム事業など | [here](https://martin-lover-se.hatenablog.com/entry/2019/06/07/090036) | |
 | [エニグモ](https://enigmo.co.jp/) | ファッションEC BUYMA | [here](https://tech.enigmo.co.jp/entry/2020/10/02/120000) | |
 | [弥生](https://www.yayoi-kk.co.jp/) | 会計ソフト 弥生シリーズ、Misoca | [here](https://twitter.com/kosappi/status/1386301152342380547) | |
