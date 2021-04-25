@@ -18,8 +18,6 @@
 | [株式会社TRUSTDOCK](https://biz.trustdock.io/) | eKYC TRUSTDOCK | [here](https://www.wantedly.com/companies/trustdock/post_articles/230052) | |
 | [株式会社キャスター](https://caster.co.jp/) | オンラインアシスタント CASTER BIZ, bosyu Jobs, Reworker など | [here](https://caster.co.jp/4626) | |
 
-https://note.com/tabelog_frontend/n/n3350f8ae0e31#2cYvB
-
 ## Contributing
 
  * 取得実績 = 2ヶ月以上の育休取得実績としています
