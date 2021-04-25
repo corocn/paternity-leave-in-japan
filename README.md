@@ -1,6 +1,6 @@
 # paternity-leave-in-japan
 
-男性育休取得実績のある日本のテクノロジー企業を勝手にまとめています。
+2ヶ月以上の男性育休取得実績のある日本のテクノロジー企業を勝手にまとめています。
 
 |会社名|説明|資料|制度|
 |-----|----|----|----|
@@ -16,15 +16,20 @@
 | [弥生株式会社](https://www.yayoi-kk.co.jp/) | 会計ソフト 弥生シリーズ、Misoca | [here](https://twitter.com/kosappi/status/1386301152342380547) | |
 | [株式会社カカクコム](https://corporate.kakaku.com/) | 食べログ、価格.com など | [here](https://note.com/tabelog_frontend/n/n3350f8ae0e31) | |
 | [株式会社TRUSTDOCK](https://biz.trustdock.io/) | eKYC TRUSTDOCK | [here](https://www.wantedly.com/companies/trustdock/post_articles/230052) | |
+| [ヘイ株式会社](https://hey.jp/company/) | STORES | [here](https://twitter.com/ssk_ats/status/1386370210077188097) | [あり](https://note.com/naokos/n/n5b30e4fd0562) |
+| [株式会社ヌーラボ](https://nulab.com/ja/) | backlog, cacoo, typetalk | [here](https://twitter.com/Megumi_Isogawa/status/1386458371146993667) |  |
+| [株式会社コードタクト](https://codetakt.com/) | EdTech schooltakt | [here](https://ypresto.hatenablog.jp/entry/2018/05/05/130323) | |
+| [freee株式会社](https://www.freee.co.jp/) | クラウド会計ソフトfreee | [here](https://twitter.com/YuuuO/status/1386335226100555777) | |
 | [株式会社キャスター](https://caster.co.jp/) | オンラインアシスタント CASTER BIZ, bosyu Jobs, Reworker など | [here](https://caster.co.jp/4626) | |
 
 ## Contributing
 
  * 取得実績 = 2ヶ月以上の育休取得実績としています
  * 資料: 取得が確認できる記事や資料（Must）
+   * なんちゃって育休で実績を語る会社を除外したいので、2ヶ月以上の男性育休が確認できたら掲載しています。
+   * Twitterでも可。
  * 制度: 育休や職場復帰をサポートする社内制度がある場合（Nice to have）
-
- なんちゃって育休で実績を語る会社を除外したいので、2ヶ月以上の男性育休が確認できたら掲載しています。
+ * リンクを差し替えてほしい等あれば、気軽にPRください。
  
 ## Thanks
  
@@ -32,4 +37,4 @@
 
 ## Contact
 
- * [@corocn](https://twitter.com/corocn) までDMください
+ * 何かあれば [@corocn](https://twitter.com/corocn) までDMください
