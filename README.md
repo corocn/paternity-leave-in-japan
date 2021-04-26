@@ -23,7 +23,7 @@
 | [freee](https://www.freee.co.jp/) | クラウド会計ソフトfreee | [here](https://twitter.com/YuuuO/status/1386335226100555777) | |
 | [feedforce](https://www.feedforce.jp/) | デジタルマーケ、SaaS事業 | [here](https://media.feedforce.jp/n/nce64a0bd48ef) | |
 | [Visional](https://www.visional.inc/) | BIZREACH、HRMOS など | [here](https://blog.visional.inc/n/n831d5c214a5e) | |
-| [リブセンス](https://www.livesense.co.jp/) | 転職DRAFT、マッハバイト、転職会議 | [here](https://style.nikkei.com/article/DGXMZO18587350X00C17A7TY5000/) | |
+| [リブセンス](https://www.livesense.co.jp/) | 転職DRAFT、マッハバイト、転職会議など | [here](https://style.nikkei.com/article/DGXMZO18587350X00C17A7TY5000/) | |
 | [dely](https://dely.jp/) | レシピ動画 Kurashiru など | [here](https://twitter.com/takaoh717/status/1386472780204417025) | |
 | [キャスター](https://caster.co.jp/) | CASTER BIZ, bosyu Jobs, Reworker など | [here](https://caster.co.jp/4626) | |
 | [ビザスク](https://visasq.co.jp/) | ビザスク、ビザスクlite | [here](https://twitter.com/glico800/status/1386481653996945409?s=20) | |
