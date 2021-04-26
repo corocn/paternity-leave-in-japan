@@ -28,6 +28,7 @@
 | [キャスター](https://caster.co.jp/) | CASTER BIZ, bosyu Jobs, Reworker など | [here](https://caster.co.jp/4626) | |
 | [ビザスク](https://visasq.co.jp/) | ビザスク、ビザスクlite | [here](https://twitter.com/glico800/status/1386481653996945409?s=20) | |
 | [ゆめみ](https://www.yumemi.co.jp/) | モバイルアプリ、Webサイトなど | [here](https://note.com/hammer0802/n/n3a809fd19bfa) | [あり](https://www.yumemi.co.jp/welfare) |
+| [TimeTree](https://timetreeapp.com/) | カレンダーシェアアプリ「TimeTree」| [here](https://note.com/jubileeworks/n/nb445ee7c371f) | [あり](https://timetreeapp.com/intl/ja/newsroom/blog/2020-08-04/childcare-leave) |
 
 ## Contributing
 
