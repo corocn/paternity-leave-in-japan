@@ -31,6 +31,7 @@
 | [TimeTree](https://timetreeapp.com/) | カレンダーシェアアプリ「TimeTree」| [here](https://note.com/jubileeworks/n/nb445ee7c371f) | [あり](https://timetreeapp.com/intl/ja/newsroom/blog/2020-08-04/childcare-leave) |
 | [Coincheck](https://corporate.coincheck.com/) | 仮想通貨取引所「Coincheck」| [here](https://twitter.com/kudo1004/status/1386481631486087169) | |
 | [マネーフォワード](https://corp.moneyforward.com/) | マネーフォワード ME、マネーフォワードクラウドなど | [here](https://note.com/keikokanai/n/n2c5fd17071d1?magazine_key=m04255dfedb10) | [あり](https://corp.moneyforward.com/recruit/benefits/) |
+| [i-enter](https://www.i-enter.co.jp) | iPad無人受付案内システム「I-FACE」 | [here](https://job.mynavi.jp/22/pc/corpinfo/displayPremium/index?corpId=72594&optNo=11125) ||
 
 ## Contributing
 
