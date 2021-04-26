@@ -22,7 +22,7 @@
 | [コードタクト](https://codetakt.com/) | EdTech schooltakt | [here](https://ypresto.hatenablog.jp/entry/2018/05/05/130323) | |
 | [freee](https://www.freee.co.jp/) | クラウド会計ソフトfreee | [here](https://twitter.com/YuuuO/status/1386335226100555777) | |
 | [feedforce](https://www.feedforce.jp/) | デジタルマーケ、SaaS事業 | [here](https://media.feedforce.jp/n/nce64a0bd48ef) | |
-| [ビズリーチ](https://www.bizreach.jp/) | BIZREACH | [here](https://www.lifehacker.jp/2017/09/170921-househusband-in-london-vol-01.html) | |
+| [Visional](https://www.visional.inc/) | BIZREACH、HRMOS など | [here](https://blog.visional.inc/n/n831d5c214a5e) | |
 | [リブセンス](https://www.livesense.co.jp/) | 転職DRAFT、マッハバイト、転職会議 | [here](https://style.nikkei.com/article/DGXMZO18587350X00C17A7TY5000/) | |
 | [dely](https://dely.jp/) | レシピ動画 Kurashiru など | [here](https://twitter.com/takaoh717/status/1386472780204417025) | |
 | [キャスター](https://caster.co.jp/) | CASTER BIZ, bosyu Jobs, Reworker など | [here](https://caster.co.jp/4626) | |
