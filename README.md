@@ -29,7 +29,7 @@
 | [ビザスク](https://visasq.co.jp/) | ビザスク、ビザスクlite | [here](https://twitter.com/glico800/status/1386481653996945409?s=20) | |
 | [ゆめみ](https://www.yumemi.co.jp/) | モバイルアプリ、Webサイトなど | [here](https://note.com/hammer0802/n/n3a809fd19bfa) | [あり](https://www.yumemi.co.jp/welfare) |
 | [TimeTree](https://timetreeapp.com/) | カレンダーシェアアプリ「TimeTree」| [here](https://note.com/jubileeworks/n/nb445ee7c371f) | [あり](https://timetreeapp.com/intl/ja/newsroom/blog/2020-08-04/childcare-leave) |
-| [Coincheck](https://corporate.coincheck.com/) | 仮想通貨取引所「Coincheck」| [here](https://twitter.com/kudo1004/status/1386481631486087169) | |
+| [Coincheck](https://corporate.coincheck.com/) | 仮想通貨取引所「Coincheck」| [here](https://www.wantedly.com/companies/Coincheck/post_articles/280757) | [あり](https://corporate.coincheck.com/recruit/environment/)|
 | [マネーフォワード](https://corp.moneyforward.com/) | マネーフォワード ME、マネーフォワードクラウドなど | [here](https://note.com/keikokanai/n/n2c5fd17071d1?magazine_key=m04255dfedb10) | [あり](https://corp.moneyforward.com/recruit/benefits/) |
 | [i-enter](https://www.i-enter.co.jp) | Web・スマホアプリ開発、IoT、XR、マリンテックなど | [here](https://job.mynavi.jp/22/pc/corpinfo/displayPremium/index?corpId=72594&optNo=11125) ||
 | [Retty](https://corp.retty.me) | 実名型グルメサービスRetty | [here](https://twitter.com/tunepolo/status/1386566319747698696?s=20) ||
