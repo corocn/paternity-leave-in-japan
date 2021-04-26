@@ -27,7 +27,7 @@
 | [dely](https://dely.jp/) | レシピ動画 Kurashiru など | [here](https://twitter.com/takaoh717/status/1386472780204417025) | |
 | [キャスター](https://caster.co.jp/) | CASTER BIZ, bosyu Jobs, Reworker など | [here](https://caster.co.jp/4626) | |
 | [ビザスク](https://visasq.co.jp/) | ビザスク、ビザスクlite | [here](https://twitter.com/glico800/status/1386481653996945409?s=20) | |
-
+| [ゆめみ](https://www.yumemi.co.jp/) | モバイルアプリ、Webサイトなど | [here](https://note.com/hammer0802/n/n3a809fd19bfa) | [あり](https://www.yumemi.co.jp/welfare) |
 
 ## Contributing
 
