@@ -22,10 +22,14 @@
 | [コードタクト](https://codetakt.com/) | EdTech schooltakt | [here](https://ypresto.hatenablog.jp/entry/2018/05/05/130323) | |
 | [freee](https://www.freee.co.jp/) | クラウド会計ソフトfreee | [here](https://twitter.com/YuuuO/status/1386335226100555777) | |
 | [feedforce](https://www.feedforce.jp/) | デジタルマーケ、SaaS事業 | [here](https://media.feedforce.jp/n/nce64a0bd48ef) | |
-| [ビズリーチ](https://www.bizreach.jp/) | BIZREACH | [here](https://www.lifehacker.jp/2017/09/170921-househusband-in-london-vol-01.html) | |
+| [Visional](https://www.visional.inc/) | BIZREACH、HRMOS など | [here](https://blog.visional.inc/n/n831d5c214a5e) | |
 | [リブセンス](https://www.livesense.co.jp/) | 転職DRAFT、マッハバイト、転職会議 | [here](https://style.nikkei.com/article/DGXMZO18587350X00C17A7TY5000/) | |
 | [dely](https://dely.jp/) | レシピ動画 Kurashiru など | [here](https://twitter.com/takaoh717/status/1386472780204417025) | |
 | [キャスター](https://caster.co.jp/) | CASTER BIZ, bosyu Jobs, Reworker など | [here](https://caster.co.jp/4626) | |
+| [ビザスク](https://visasq.co.jp/) | ビザスク、ビザスクlite | [here](https://twitter.com/glico800/status/1386481653996945409?s=20) | |
+| [ゆめみ](https://www.yumemi.co.jp/) | モバイルアプリ、Webサイトなど | [here](https://note.com/hammer0802/n/n3a809fd19bfa) | [あり](https://www.yumemi.co.jp/welfare) |
+| [TimeTree](https://timetreeapp.com/) | カレンダーシェアアプリ「TimeTree」| [here](https://note.com/jubileeworks/n/nb445ee7c371f) | [あり](https://timetreeapp.com/intl/ja/newsroom/blog/2020-08-04/childcare-leave) |
+| [Coincheck](https://corporate.coincheck.com/) | 仮想通貨取引所「Coincheck」| [here](https://twitter.com/kudo1004/status/1386481631486087169) | |
 | [マネーフォワード](https://corp.moneyforward.com/) | マネーフォワード ME、マネーフォワードクラウドなど | [here](https://note.com/keikokanai/n/n2c5fd17071d1?magazine_key=m04255dfedb10) | [あり](https://corp.moneyforward.com/recruit/benefits/) |
 
 ## Contributing
