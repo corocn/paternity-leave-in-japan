@@ -40,4 +40,4 @@
 
 ## Contact
 
- * 何かあれば [@corocn](https://twitter.com/corocn) までDMください
+ * [@corocn](https://twitter.com/corocn)
