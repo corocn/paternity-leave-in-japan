@@ -26,6 +26,7 @@
 | [リブセンス](https://www.livesense.co.jp/) | 転職DRAFT、マッハバイト、転職会議 | [here](https://style.nikkei.com/article/DGXMZO18587350X00C17A7TY5000/) | |
 | [dely](https://dely.jp/) | レシピ動画 Kurashiru など | [here](https://twitter.com/takaoh717/status/1386472780204417025) | |
 | [キャスター](https://caster.co.jp/) | CASTER BIZ, bosyu Jobs, Reworker など | [here](https://caster.co.jp/4626) | |
+| [マネーフォワード](https://corp.moneyforward.com/) | マネーフォワード ME、マネーフォワードクラウドなど | [here](https://note.com/keikokanai/n/n2c5fd17071d1?magazine_key=m04255dfedb10) | [あり](https://corp.moneyforward.com/recruit/benefits/) |
 
 ## Contributing
 
