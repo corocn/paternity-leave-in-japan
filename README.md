@@ -23,8 +23,9 @@
 | [freee](https://www.freee.co.jp/) | クラウド会計ソフトfreee | [here](https://twitter.com/YuuuO/status/1386335226100555777) | |
 | [feedforce](https://www.feedforce.jp/) | デジタルマーケ、SaaS事業 | [here](https://media.feedforce.jp/n/nce64a0bd48ef) | |
 | [ビズリーチ](https://www.bizreach.jp/) | BIZREACH | [here](https://www.lifehacker.jp/2017/09/170921-househusband-in-london-vol-01.html) | |
-  [リブセンス](https://www.livesense.co.jp/) | 転職DRAFT、マッハバイト、転職会議 | [here](https://style.nikkei.com/article/DGXMZO18587350X00C17A7TY5000/) | || 
-  [キャスター](https://caster.co.jp/) | CASTER BIZ, bosyu Jobs, Reworker など | [here](https://caster.co.jp/4626) | |
+| [リブセンス](https://www.livesense.co.jp/) | 転職DRAFT、マッハバイト、転職会議 | [here](https://style.nikkei.com/article/DGXMZO18587350X00C17A7TY5000/) | |
+| [dely](https://dely.jp/) | レシピ動画 Kurashiru など | [here](https://twitter.com/takaoh717/status/1386472780204417025) | |
+| [キャスター](https://caster.co.jp/) | CASTER BIZ, bosyu Jobs, Reworker など | [here](https://caster.co.jp/4626) | |
 
 ## Contributing
 
