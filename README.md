@@ -33,6 +33,7 @@
 | [マネーフォワード](https://corp.moneyforward.com/) | マネーフォワード ME、マネーフォワードクラウドなど | [here](https://note.com/keikokanai/n/n2c5fd17071d1?magazine_key=m04255dfedb10) | [あり](https://corp.moneyforward.com/recruit/benefits/) |
 | [i-enter](https://www.i-enter.co.jp) | Web・スマホアプリ開発、IoT、XR、マリンテックなど | [here](https://job.mynavi.jp/22/pc/corpinfo/displayPremium/index?corpId=72594&optNo=11125) ||
 | [Retty](https://corp.retty.me) | 実名型グルメサービスRetty | [here](https://twitter.com/tunepolo/status/1386566319747698696?s=20) ||
+| [ロコガイド](https://locoguide.co.jp/) | 買い物情報サービス トクバイ など | [here](https://twitter.com/fukajun/status/1386818397598490624) ||
 
 ## Contributing
 
