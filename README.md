@@ -34,6 +34,7 @@
 | [i-enter](https://www.i-enter.co.jp) | Web・スマホアプリ開発、IoT、XR、マリンテックなど | [here](https://job.mynavi.jp/22/pc/corpinfo/displayPremium/index?corpId=72594&optNo=11125) ||
 | [Retty](https://corp.retty.me) | 実名型グルメサービスRetty | [here](https://twitter.com/tunepolo/status/1386566319747698696?s=20) ||
 | [ロコガイド](https://locoguide.co.jp/) | 買い物情報サービス トクバイ など | [here](https://twitter.com/fukajun/status/1386818397598490624) ||
+| [ACCESS](https://www.access-company.com/) | ブラウザ、IoT、電子出版 など | [here](https://www.access-company.com/recruit/workstyle/worklife/) ||
 
 ## Contributing
 
