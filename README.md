@@ -35,6 +35,7 @@
 | [Retty](https://corp.retty.me) | 実名型グルメサービスRetty | [here](https://twitter.com/tunepolo/status/1386566319747698696?s=20) ||
 | [ロコガイド](https://locoguide.co.jp/) | 買い物情報サービス トクバイ など | [here](https://twitter.com/fukajun/status/1386818397598490624) ||
 | [ACCESS](https://www.access-company.com/) | ブラウザ、IoT、電子出版 など | [here](https://www.access-company.com/recruit/workstyle/worklife/) ||
+| [インフィニットループ](https://www.infiniteloop.co.jp/) | サーバーサイド事業 など | [here](https://www.infiniteloop.co.jp/blog/2020/12/ikukyu-report-01/) | [あり](https://www.infiniteloop.co.jp/special/officesystem.php)|
 
 ## Contributing
 
