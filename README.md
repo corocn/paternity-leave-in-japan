@@ -38,8 +38,8 @@
 | [インフィニットループ](https://www.infiniteloop.co.jp/) | サーバーサイド事業 など | [here](https://www.infiniteloop.co.jp/blog/2020/12/ikukyu-report-01/) | [あり](https://www.infiniteloop.co.jp/special/officesystem.php)|
 | [Timers](https://timers-inc.com/) | 家族アプリ「Famm」など | [here](https://prtimes.jp/main/html/rd/p/000000035.000037972.html) ||
 | [ミクシィ](https://mixi.co.jp/) | モンスターストライク、みてね、TIPSTAR など | [here](https://mixil.mixi.co.jp/people/2615) | [あり](https://mixi.co.jp/esg/social/balance/index.html) |
-| [エウレカ](https://eure.jp/) | Pairs、Pairsエンゲージ、Couplesなど | [here](https://twitter.com/Mizkino/status/1332339965074632705) | [あり](https://eure.jp/culture/) |
 | [10X](https://10x.co.jp/) | スーパーマーケット、ドラッグストアなどの小売チェーンがECを立ち上げるためのプラットフォーム「Stailer」| [here](https://10x.co.jp/articles/posts/?id=2021-04-27) | [あり](https://jobs.10x.co.jp/#8705631ef3b740a4a3658353b88bf02b) |
+| [エウレカ](https://eure.jp/) | Pairs、Pairsエンゲージ | [here](https://twitter.com/Mizkino/status/1332339965074632705) | [あり](https://eure.jp/culture/) |
 
 ## Contributing
 
