@@ -3,7 +3,7 @@
 男性育休取得実績のある日本のテクノロジー企業を勝手にまとめています。
 2ヶ月以上の取得が基準です。
 
-|会社名|説明|資料|制度|
+|会社名|説明|資料|独自制度|
 |-----|----|----|----|
 | [メルカリ](https://about.mercari.com/)| フリマアプリ「メルカリ」 | [here](https://www8.cao.go.jp/shoushi/shoushika/meeting/consortium/05/pdf/ikuji-1.pdf) | [あり](https://careers.mercari.com/jp/benefits/) |
 | [ミクシィ](https://mixi.co.jp/) | モンスターストライク、みてね、TIPSTAR など | [here](https://mixil.mixi.co.jp/people/2615) | [あり](https://mixi.co.jp/esg/social/balance/index.html) |
@@ -46,7 +46,7 @@
 
  * 取得実績 = 2ヶ月以上の育休取得実績としています。
  * 資料: 取得が確認できる記事や資料。Twitterでもいい。（Must）
- * 制度: 育休や職場復帰をサポートする社内制度がある場合。（Nice to have）
+ * 独自制度: 育休や職場復帰をサポートする社内独自の制度がある場合。（Nice to have）
  * 載せてほしい・リンクを差し替えてほしい等あれば、気軽にPRください！
 
  制度に関して、調査不足&外部に制度が公開されてない可能性があるので、記述がない = 制度がないという意味ではありません。
