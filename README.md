@@ -35,6 +35,7 @@
 | [Retty](https://corp.retty.me) | 実名型グルメサービスRetty | [here](https://twitter.com/tunepolo/status/1386566319747698696?s=20) ||
 | [ロコガイド](https://locoguide.co.jp/) | 買い物情報サービス トクバイ など | [here](https://twitter.com/fukajun/status/1386818397598490624) ||
 | [ACCESS](https://www.access-company.com/) | ブラウザ、IoT、電子出版 など | [here](https://www.access-company.com/recruit/workstyle/worklife/) ||
+| [Timers](https://timers-inc.com/) | 家族アプリ「Famm」など | [here](https://prtimes.jp/main/html/rd/p/000000035.000037972.html) ||
 | [ミクシィ](https://mixi.co.jp/) | モンスターストライク、みてね、TIPSTAR など | [here](https://mixil.mixi.co.jp/people/2615) | [あり](https://mixi.co.jp/esg/social/balance/index.html) |
 
 ## Contributing
