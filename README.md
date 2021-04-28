@@ -42,6 +42,7 @@
 | [Timers](https://timers-inc.com/) | 家族アプリ「Famm」など | [here](https://prtimes.jp/main/html/rd/p/000000035.000037972.html) ||
 |[GMOペパボ](https://pepabo.com/)| ロリポップ！レンタルサーバー、minne、SUZURI など |[here](https://github.com/corocn/paternity-leave-in-japan/pull/18)|[あり](https://recruit.pepabo.com/environment/)|
 | [アイレット](https://www.iret.co.jp/) | ITコンサルティング、システム開発、システム保守・運用、サーバハウジング・ホスティング | [here](https://cloudpack.media/52160) ||
+| [Quipper](https://www.quipper.com/) | スタディサプリ、Quipper | [here](https://quipper.hatenablog.com/entry/2018/10/23/paternity-leave) ||
 
 ## Contributing
 
