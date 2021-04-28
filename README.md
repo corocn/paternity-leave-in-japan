@@ -40,7 +40,7 @@
 | [ロコガイド](https://locoguide.co.jp/) | 買い物情報サービス トクバイ など | [here](https://twitter.com/fukajun/status/1386818397598490624) ||
 | [ACCESS](https://www.access-company.com/) | ブラウザ、IoT、電子出版 など | [here](https://www.access-company.com/recruit/workstyle/worklife/) ||
 | [Timers](https://timers-inc.com/) | 家族アプリ「Famm」など | [here](https://prtimes.jp/main/html/rd/p/000000035.000037972.html) ||
-|[GMOペパボ](https://pepabo.com/)| ロリポップ！レンタルサーバー、minne、SUZURI など |[here](https://hr.pepabo.com/interview/2019/08/09/2488)|[あり](https://recruit.pepabo.com/environment/)|
+|[GMOペパボ](https://pepabo.com/)| ロリポップ！レンタルサーバー、minne、SUZURI など |[here](https://github.com/corocn/paternity-leave-in-japan/pull/18)|[あり](https://recruit.pepabo.com/environment/)|
 
 ## Contributing
 
