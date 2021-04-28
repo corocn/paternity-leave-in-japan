@@ -41,6 +41,7 @@
 | [ACCESS](https://www.access-company.com/) | ブラウザ、IoT、電子出版 など | [here](https://www.access-company.com/recruit/workstyle/worklife/) ||
 | [Timers](https://timers-inc.com/) | 家族アプリ「Famm」など | [here](https://prtimes.jp/main/html/rd/p/000000035.000037972.html) ||
 | [アイレット](https://www.iret.co.jp/) | ITコンサルティング、システム開発、システム保守・運用、サーバハウジング・ホスティング | [here](https://cloudpack.media/52160) ||
+| [クラスメソッド](https://classmethod.jp/) | クラウド導入支援、ビッグデータ基盤構築、モバイルアプリ開発、LINE技術支援、AI／機械学習技術支援 | [here](https://careers.classmethod.jp/culture/childcare/) |[あり](https://twitter.com/sato_shi/status/1135359861149949952?s=20)|
 
 
 ## Contributing
