@@ -3,7 +3,7 @@
 男性育休取得実績のある日本のテクノロジー企業を勝手にまとめています。
 2ヶ月以上の取得が基準です。
 
-|会社名|説明|資料|制度|
+|会社名|説明|資料|独自制度|
 |-----|----|----|----|
 | [メルカリ](https://about.mercari.com/)| フリマアプリ「メルカリ」 | [here](https://www8.cao.go.jp/shoushi/shoushika/meeting/consortium/05/pdf/ikuji-1.pdf) | [あり](https://careers.mercari.com/jp/benefits/) |
 | [ミクシィ](https://mixi.co.jp/) | モンスターストライク、みてね、TIPSTAR など | [here](https://mixil.mixi.co.jp/people/2615) | [あり](https://mixi.co.jp/esg/social/balance/index.html) |
@@ -41,12 +41,13 @@
 | [ACCESS](https://www.access-company.com/) | ブラウザ、IoT、電子出版 など | [here](https://www.access-company.com/recruit/workstyle/worklife/) ||
 | [Timers](https://timers-inc.com/) | 家族アプリ「Famm」など | [here](https://prtimes.jp/main/html/rd/p/000000035.000037972.html) ||
 |[GMOペパボ](https://pepabo.com/)| ロリポップ！レンタルサーバー、minne、SUZURI など |[here](https://github.com/corocn/paternity-leave-in-japan/pull/18)|[あり](https://recruit.pepabo.com/environment/)|
+| [アイレット](https://www.iret.co.jp/) | ITコンサルティング、システム開発、システム保守・運用、サーバハウジング・ホスティング | [here](https://cloudpack.media/52160) ||
 
 ## Contributing
 
  * 取得実績 = 2ヶ月以上の育休取得実績としています。
  * 資料: 取得が確認できる記事や資料。Twitterでもいい。（Must）
- * 制度: 育休や職場復帰をサポートする社内制度がある場合。（Nice to have）
+ * 独自制度: 育休や職場復帰をサポートする社内独自の制度がある場合。（Nice to have）
  * 載せてほしい・リンクを差し替えてほしい等あれば、気軽にPRください！
 
  制度に関して、調査不足&外部に制度が公開されてない可能性があるので、記述がない = 制度がないという意味ではありません。
