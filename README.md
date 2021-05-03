@@ -43,7 +43,7 @@
 |[GMOペパボ](https://pepabo.com/)| ロリポップ！レンタルサーバー、minne、SUZURI など |[here](https://github.com/corocn/paternity-leave-in-japan/pull/18)|[あり](https://recruit.pepabo.com/environment/)|
 | [アイレット](https://www.iret.co.jp/) | ITコンサルティング、システム開発、システム保守・運用、サーバハウジング・ホスティング | [here](https://cloudpack.media/52160) ||
 | [Quipper](https://www.quipper.com/) | スタディサプリ、Quipper | [here](https://quipper.hatenablog.com/entry/2018/10/23/paternity-leave) ||
-| [ユーザベース](https://www.uzabase.com/) | NewsPicks、SPEEDA、FORCAS、UB VENTURES など  | [here](https://twitter.com/jun_ichiro/status/1386574267970560003) | [あり](https://www.uzabase.com/jp/careers/) |
+| [ユーザベース](https://www.uzabase.com/) | NewsPicks、SPEEDA、FORCAS、UB VENTURES など  | [here](https://note.com/kazypinksaurus/n/nca17d51808fd) | [あり](https://www.uzabase.com/jp/careers/) |
 | [Sansan](https://jp.corp-sansan.com/) | Sansan、Eight、BillOne など  | [here](https://twitter.com/ko_hirayama/status/1387334986877964290?s=20) | [あり](https://jp.corp-sansan.com/recruit/office#systems) |
 
 ## Contributing
