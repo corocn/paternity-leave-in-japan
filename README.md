@@ -45,6 +45,7 @@
 | [Quipper](https://www.quipper.com/) | スタディサプリ、Quipper | [here](https://quipper.hatenablog.com/entry/2018/10/23/paternity-leave) ||
 | [ユーザベース](https://www.uzabase.com/) | NewsPicks、SPEEDA、FORCAS、UB VENTURES など  | [here](https://note.com/kazypinksaurus/n/nca17d51808fd) | [あり](https://www.uzabase.com/jp/careers/) |
 | [Sansan](https://jp.corp-sansan.com/) | Sansan、Eight、BillOne など  | [here](https://twitter.com/ko_hirayama/status/1387334986877964290?s=20) | [あり](https://jp.corp-sansan.com/recruit/office#systems) |
+| [オープンストリーム](https://www.opst.co.jp/) | Biz/Browser、マルチクラウドによるシステム開発など | [here](https://www.opst.co.jp/activity/detail/report/blog/report200909) ||
 
 ## Contributing
 
