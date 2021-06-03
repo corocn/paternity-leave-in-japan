@@ -26,7 +26,7 @@
 | [弥生](https://www.yayoi-kk.co.jp/) | 会計ソフト 弥生シリーズ、Misoca | [here](https://twitter.com/kosappi/status/1386301152342380547) | |
 | [カカクコム](https://corporate.kakaku.com/) | 食べログ、価格.com など | [here](https://note.com/tabelog_frontend/n/n3350f8ae0e31) | |
 | [TRUSTDOCK](https://biz.trustdock.io/) | eKYC TRUSTDOCK | [here](https://www.wantedly.com/companies/trustdock/post_articles/230052) | |
-| [ヌーラボ](https://nulab.com/ja/) | backlog, cacoo, typetalk | [here](https://twitter.com/Megumi_Isogawa/status/1386458371146993667) |  |
+| [ヌーラボ](https://nulab.com/ja/) | Backlog, Cacoo, Typetalk | [here](https://nulab.com/ja/blog/nulab/one-year-and-one-mont-of-my-parental-leave-with-my-baby/) | [あり](https://nulab.com/ja/blog/nulab/reportkids/) |
 | [コードタクト](https://codetakt.com/) | EdTech schooltakt | [here](https://ypresto.hatenablog.jp/entry/2018/05/05/130323) | |
 | [freee](https://www.freee.co.jp/) | クラウド会計ソフトfreee | [here](https://twitter.com/YuuuO/status/1386335226100555777) | |
 | [feedforce](https://www.feedforce.jp/) | デジタルマーケ、SaaS事業 | [here](https://media.feedforce.jp/n/nce64a0bd48ef) | |
