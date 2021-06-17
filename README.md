@@ -48,6 +48,7 @@
 | [オープンストリーム](https://www.opst.co.jp/) | Biz/Browser、マルチクラウドによるシステム開発など | [here](https://www.opst.co.jp/activity/detail/report/blog/report200909) ||
 | [クラウドワークス](https://crowdworks.co.jp/) | 日本最大級のクラウドソーシングサービス「[クラウドワークス](https://crowdworks.jp/)」の運営開発 | [here](https://colorfulworks.crowdworks.co.jp/entry/2021/06/07/115114) ||
 | [モバイルファクトリー](https://www.mobilefactory.jp) | NFTマーケット「ユニマ」、位置ゲーム「[駅メモ！ - ステーションメモリーズ！-](https://ekimemo.com/)」など | [here](https://next.rikunabi.com/journal/20171102_c1/) | [あり](https://recruit.mobilefactory.jp/work-style/) |
+| [ラクスル](https://recruit.raksul.com/) | ラクスル、ノバセル、ハコベル など | [here](https://recruit.raksul.com/story/pdm-sasako/) | [あり](https://speakerdeck.com/raksulrecruiting/raksul-introduction?slide=48) |
 
 ## Contributing
 
