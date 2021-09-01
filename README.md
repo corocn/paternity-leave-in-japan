@@ -50,6 +50,7 @@
 | [モバイルファクトリー](https://www.mobilefactory.jp) | NFTマーケット「ユニマ」、位置ゲーム「[駅メモ！ - ステーションメモリーズ！-](https://ekimemo.com/)」など | [here](https://next.rikunabi.com/journal/20171102_c1/) | [あり](https://recruit.mobilefactory.jp/work-style/) |
 | [ラクスル](https://recruit.raksul.com/) | ラクスル、ノバセル、ハコベル など | [here](https://recruit.raksul.com/story/pdm-sasako/) | [あり](https://speakerdeck.com/raksulrecruiting/raksul-introduction?slide=48) |
 | [ビビッドガーデン](https://vivid-garden.co.jp/) | 産直通販サイト[食べチョク](http://tabechoku.com/) | [here](https://twitter.com/hirashunshun/status/1408906897856425985) ||
+| [Kyash](https://www.kyash.co/) | デジタルウォレットアプリ[Kyash](https://www.kyash.co/) | [here](https://blog.pranc1ngpegasus.com/entry/2021/08/31/100000) ||
 
 ## Contributing
 
