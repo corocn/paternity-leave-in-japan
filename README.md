@@ -34,7 +34,7 @@
 | [リブセンス](https://www.livesense.co.jp/) | 転職DRAFT、マッハバイト、転職会議など | [here](https://style.nikkei.com/article/DGXMZO18587350X00C17A7TY5000/) | |
 | [dely](https://dely.jp/) | レシピ動画 Kurashiru など | [here](https://twitter.com/takaoh717/status/1386472780204417025) | |
 | [キャスター](https://caster.co.jp/) | CASTER BIZ, bosyu Jobs, Reworker など | [here](https://caster.co.jp/4626) | |
-| [ビザスク](https://visasq.co.jp/) | ビザスク、ビザスクlite | [here](https://twitter.com/glico800/status/1386481653996945409?s=20) | |
+| [ビザスク](https://visasq.co.jp/) | ビザスクinterview、ビザスクlite など | [here](https://note.com/ezawa800/n/nf0d6b5bf0075) |[あり](https://note.com/ezawa800/n/nf0d6b5bf0075) |
 | [i-enter](https://www.i-enter.co.jp) | Web・スマホアプリ開発、IoT、XR、マリンテックなど | [here](https://job.mynavi.jp/22/pc/corpinfo/displayPremium/index?corpId=72594&optNo=11125) ||
 | [Retty](https://corp.retty.me) | 実名型グルメサービスRetty | [here](https://twitter.com/tunepolo/status/1386566319747698696?s=20) ||
 | [ロコガイド](https://locoguide.co.jp/) | 買い物情報サービス トクバイ など | [here](https://twitter.com/fukajun/status/1386818397598490624) ||
