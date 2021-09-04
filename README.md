@@ -51,6 +51,7 @@
 | [ラクスル](https://recruit.raksul.com/) | ラクスル、ノバセル、ハコベル など | [here](https://recruit.raksul.com/story/pdm-sasako/) | [あり](https://speakerdeck.com/raksulrecruiting/raksul-introduction?slide=48) |
 | [ビビッドガーデン](https://vivid-garden.co.jp/) | 産直通販サイト[食べチョク](http://tabechoku.com/) | [here](https://twitter.com/hirashunshun/status/1408906897856425985) ||
 | [Kyash](https://www.kyash.co/) | デジタルウォレットアプリ[Kyash](https://www.kyash.co/) | [here](https://blog.pranc1ngpegasus.com/entry/2021/08/31/100000) ||
+| [カラクリ](https://karakuri-ai.co.jp/) | カスタマーサポート（CS）領域に特化したAIソリューション[KARAKURI](https://karakuri.ai/) | [here](https://twitter.com/yos1up/status/1400283732070653956) ||
 
 ## Contributing
 
