@@ -44,7 +44,7 @@
 | [アイレット](https://www.iret.co.jp/) | ITコンサルティング、システム開発、システム保守・運用、サーバハウジング・ホスティング | [here](https://cloudpack.media/52160) ||
 | [Recruit](https://www.quipper.com/) | スタディサプリなど | [here](https://quipper.hatenablog.com/entry/2018/10/23/paternity-leave) | [あり](https://recruit-saiyo.jp/benefits/) |
 | [ユーザベース](https://www.uzabase.com/) | NewsPicks、SPEEDA、FORCAS、UB VENTURES など  | [here](https://note.com/kazypinksaurus/n/nca17d51808fd) | [あり](https://www.uzabase.com/jp/careers/) |
-| [Sansan](https://jp.corp-sansan.com/) | Sansan、Eight、BillOne など  | [here](https://twitter.com/ko_hirayama/status/1387334986877964290?s=20) | [あり](https://jp.corp-sansan.com/recruit/office#systems) |
+| [Sansan](https://jp.corp-sansan.com/) | Sansan、Eight、BillOne など  | [here](https://buildersbox.corp-sansan.com/entry/2022/01/07/110000) | [あり](https://jp.corp-sansan.com/recruit/office#systems) |
 | [オープンストリーム](https://www.opst.co.jp/) | Biz/Browser、マルチクラウドによるシステム開発など | [here](https://www.opst.co.jp/activity/detail/report/blog/report200909) ||
 | [クラウドワークス](https://crowdworks.co.jp/) | 日本最大級のクラウドソーシングサービス「[クラウドワークス](https://crowdworks.jp/)」の運営開発 | [here](https://note.com/colorfulworks_cw/n/nb9fa1f51a643) ||
 | [モバイルファクトリー](https://www.mobilefactory.jp) | NFTマーケット「ユニマ」、位置ゲーム「[駅メモ！ - ステーションメモリーズ！-](https://ekimemo.com/)」など | [here](https://next.rikunabi.com/journal/20171102_c1/) | [あり](https://recruit.mobilefactory.jp/work-style/) |
