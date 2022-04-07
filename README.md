@@ -54,6 +54,7 @@
 | [カラクリ](https://karakuri-ai.co.jp/) | カスタマーサポート（CS）領域に特化したAIソリューション[KARAKURI](https://karakuri.ai/) | [here](https://twitter.com/yos1up/status/1400283732070653956) ||
 | [Leaner Technologies](https://leaner.co.jp/) | Leaner見積など | [here](https://zenn.dev/leaner_tech/articles/20211119-paternity_leave) | [あり](https://leaner.co.jp/210913/) |
 |[BASE株式会社](https://binc.jp/)|ネットショップ開設実績4年連続No.1のEコマースプラットフォーム「BASE」、オンライン決済サービス「PAY.JP」、ID決済サービス「PAY ID」 を企画・開発・運営|[here](https://devblog.thebase.in/entry/2019/12/01/090000)||
+|[株式会社コドモン](https://www.codmon.co.jp/)|こども施設向けICTシステム「コドモン」、保育者採用支援サービス「ホイシル」など|[here](https://newscast.jp/news/4351656)||
 
 ## Contributing
 
