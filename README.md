@@ -56,6 +56,7 @@
 |[BASE株式会社](https://binc.jp/)|ネットショップ開設実績4年連続No.1のEコマースプラットフォーム「BASE」、オンライン決済サービス「PAY.JP」、ID決済サービス「PAY ID」 を企画・開発・運営|[here](https://devblog.thebase.in/entry/2019/12/01/090000)||
 |[株式会社コドモン](https://www.codmon.co.jp/)|こども施設向けICTシステム「コドモン」、保育者採用支援サービス「ホイシル」など|[here](https://newscast.jp/news/4351656)||
 |[ビットバンク株式会社](https://bitbank.cc/)| 暗号資産取引所 |[here](https://bitbank-recruit.notion.site/8eba9528836e415f9561ccf13248c7f1)||
+|[株式会社ブックウォーカー](https://www.bookwalker.co.jp/)|BOOK☆WALKER、ニコニコ漫画、dマガジンなど|[here](https://developers.bookwalker.jp/entry/2023/02/17/200000#%E8%82%B2%E5%85%90%E4%BC%91%E6%A5%AD%E3%81%AE%E5%8F%96%E5%BE%97)||
 | [株式会社マイベスト](https://my-best.com/company) | おすすめ情報サービス「[mybest](https://my-best.com/)」 | [here](https://note.com/rince/n/nab2fc8e6e035) | [あり](https://tsushin.my-best.com/articles/039) |
 
 ## Contributing
