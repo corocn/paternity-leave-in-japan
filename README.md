@@ -8,7 +8,7 @@
 | [メルカリ](https://about.mercari.com/)| フリマアプリ「メルカリ」 | [here](https://www8.cao.go.jp/shoushi/shoushika/meeting/consortium/05/pdf/ikuji-1.pdf) | [あり](https://careers.mercari.com/jp/benefits/) |
 | [ミクシィ](https://mixi.co.jp/) | モンスターストライク、みてね、TIPSTAR など | [here](https://mixil.mixi.co.jp/people/2615) | [あり](https://mixi.co.jp/esg/social/balance/index.html) |
 | [10X](https://10x.co.jp/) | スーパーマーケット、ドラッグストアなどの小売チェーンがECを立ち上げるためのプラットフォーム「Stailer」| [here](https://10x.co.jp/articles/posts/?id=2021-04-27) | [あり](https://jobs.10x.co.jp/#8705631ef3b740a4a3658353b88bf02b) |
-| [エウレカ](https://eure.jp/) | Pairs、Pairsエンゲージ | [here](https://twitter.com/Mizkino/status/1332339965074632705) | [あり](https://eure.jp/culture/) |
+| [エウレカ](https://eure.jp/) | 恋活・婚活マッチングアプリ「Pairs」 | [here](https://www.wantedly.com/companies/eureka/post_articles/337613) | [あり](https://career.pairs.lv/life#benefits) |
 | [DeNA](https://dena.com/jp/) | ゲーム、ヘルスケア事業など | [here](https://healthcare.dena.com/teams/topics/interview-higurashi/) | [あり](https://dldp.dena.com/) |
 | [ゆめみ](https://www.yumemi.co.jp/) | モバイルアプリ、Webサイトなど | [here](https://note.com/hammer0802/n/n3a809fd19bfa) | [あり](https://www.yumemi.co.jp/welfare) |
 | [TimeTree](https://timetreeapp.com/) | カレンダーシェアアプリ「TimeTree」| [here](https://note.com/jubileeworks/n/nb445ee7c371f) | [あり](https://timetreeapp.com/intl/ja/newsroom/blog/2020-08-04/childcare-leave) |
