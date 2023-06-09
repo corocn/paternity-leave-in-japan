@@ -58,6 +58,7 @@
 |[ビットバンク株式会社](https://bitbank.cc/)| 暗号資産取引所 |[here](https://bitbank-recruit.notion.site/8eba9528836e415f9561ccf13248c7f1)||
 |[株式会社ブックウォーカー](https://www.bookwalker.co.jp/)|BOOK☆WALKER、ニコニコ漫画、dマガジンなど|[here](https://developers.bookwalker.jp/entry/2023/02/17/200000#%E8%82%B2%E5%85%90%E4%BC%91%E6%A5%AD%E3%81%AE%E5%8F%96%E5%BE%97)||
 | [株式会社マイベスト](https://my-best.com/company) | おすすめ情報サービス「[mybest](https://my-best.com/)」 | [here](https://note.com/rince/n/nab2fc8e6e035) | [あり](https://tsushin.my-best.com/articles/039) |
+| [株式会社ウエディングパーク](https://www.weddingpark.co.jp/) | 結婚式場クチコミ情報サイト「[ウエディングパーク](https://www.weddingpark.net/)」、フォトウエディング専門クチコミ情報サイト「[フォトレイト](https://www.photorait.net/)」など | [here](https://takedajs.hatenablog.jp/entry/2022/04/30/133844) ||
 
 ## Contributing
 
