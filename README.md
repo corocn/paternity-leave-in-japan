@@ -14,7 +14,7 @@
 | [TimeTree](https://timetreeapp.com/) | カレンダーシェアアプリ「TimeTree」| [here](https://note.com/jubileeworks/n/nb445ee7c371f) | [あり](https://timetreeapp.com/intl/ja/newsroom/blog/2020-08-04/childcare-leave) |
 | [Coincheck](https://corporate.coincheck.com/) | 仮想通貨取引所「Coincheck」| [here](https://www.wantedly.com/companies/Coincheck/post_articles/280757) | [あり](https://corporate.coincheck.com/recruit/environment/)|
 | [マネーフォワード](https://corp.moneyforward.com/) | マネーフォワード ME、マネーフォワードクラウドなど | [here](https://note.com/keikokanai/n/n2c5fd17071d1?magazine_key=m04255dfedb10) | [あり](https://corp.moneyforward.com/recruit/benefits/) |
-| [hey](https://hey.jp/company/) | STORES | [here](https://twitter.com/ssk_ats/status/1386370210077188097) | [あり](https://note.com/naokos/n/n5b30e4fd0562) |
+| [STORES (旧: hey)](https://www.st.inc) | STORES | [here](https://twitter.com/ssk_ats/status/1386370210077188097) | [あり](https://note.com/naokos/n/n5b30e4fd0562) |
 | [Google](https://about.google/) | Google、Gmail、YouTube など | [here](https://kumagi.hatenablog.com/entry/ikukyu) | [あり](https://kumagi.hatenablog.com/entry/ikukyu) |
 | [インフィニットループ](https://www.infiniteloop.co.jp/) | サーバーサイド事業 など | [here](https://www.infiniteloop.co.jp/blog/2020/12/ikukyu-report-01/) | [あり](https://www.infiniteloop.co.jp/special/officesystem.php)|
 | [ピクシブ](https://www.pixiv.co.jp/)| Pixiv、BOOTH、Image Flux など | [here](https://inside.pixiv.blog/watasuke/5453) | |
