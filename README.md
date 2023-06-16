@@ -58,6 +58,7 @@
 |[ビットバンク株式会社](https://bitbank.cc/)| 暗号資産取引所 |[here](https://bitbank-recruit.notion.site/8eba9528836e415f9561ccf13248c7f1)||
 |[株式会社ブックウォーカー](https://www.bookwalker.co.jp/)|BOOK☆WALKER、ニコニコ漫画、dマガジンなど|[here](https://developers.bookwalker.jp/entry/2023/02/17/200000#%E8%82%B2%E5%85%90%E4%BC%91%E6%A5%AD%E3%81%AE%E5%8F%96%E5%BE%97)||
 | [株式会社マイベスト](https://my-best.com/company) | おすすめ情報サービス「[mybest](https://my-best.com/)」 | [here](https://note.com/rince/n/nab2fc8e6e035) | [あり](https://tsushin.my-best.com/articles/039) |
+|[株式会社おいしい健康](https://corp.oishi-kenko.com/)|[おいしい健康](https://oishi-kenko.com/)の開発、運営、ITを活用したヘルスケア事業、生活メディア事業|[here](https://oishi-kenko.hatenablog.com/entry/2023/06/16/104943)||
 
 ## Contributing
 
