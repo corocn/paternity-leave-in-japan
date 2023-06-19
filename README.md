@@ -14,7 +14,7 @@
 | [TimeTree](https://timetreeapp.com/) | カレンダーシェアアプリ「TimeTree」| [here](https://note.com/jubileeworks/n/nb445ee7c371f) | [あり](https://timetreeapp.com/intl/ja/newsroom/blog/2020-08-04/childcare-leave) |
 | [Coincheck](https://corporate.coincheck.com/) | 仮想通貨取引所「Coincheck」| [here](https://www.wantedly.com/companies/Coincheck/post_articles/280757) | [あり](https://corporate.coincheck.com/recruit/environment/)|
 | [マネーフォワード](https://corp.moneyforward.com/) | マネーフォワード ME、マネーフォワードクラウドなど | [here](https://note.com/keikokanai/n/n2c5fd17071d1?magazine_key=m04255dfedb10) | [あり](https://corp.moneyforward.com/recruit/benefits/) |
-| [hey](https://hey.jp/company/) | STORES | [here](https://twitter.com/ssk_ats/status/1386370210077188097) | [あり](https://note.com/naokos/n/n5b30e4fd0562) |
+| [STORES (旧: hey)](https://www.st.inc) | STORES | [here](https://twitter.com/ssk_ats/status/1386370210077188097) | [あり](https://note.com/naokos/n/n5b30e4fd0562) |
 | [Google](https://about.google/) | Google、Gmail、YouTube など | [here](https://kumagi.hatenablog.com/entry/ikukyu) | [あり](https://kumagi.hatenablog.com/entry/ikukyu) |
 | [インフィニットループ](https://www.infiniteloop.co.jp/) | サーバーサイド事業 など | [here](https://www.infiniteloop.co.jp/blog/2020/12/ikukyu-report-01/) | [あり](https://www.infiniteloop.co.jp/special/officesystem.php)|
 | [ピクシブ](https://www.pixiv.co.jp/)| Pixiv、BOOTH、Image Flux など | [here](https://inside.pixiv.blog/watasuke/5453) | |
@@ -58,6 +58,7 @@
 |[ビットバンク株式会社](https://bitbank.cc/)| 暗号資産取引所 |[here](https://bitbank-recruit.notion.site/8eba9528836e415f9561ccf13248c7f1)||
 |[株式会社ブックウォーカー](https://www.bookwalker.co.jp/)|BOOK☆WALKER、ニコニコ漫画、dマガジンなど|[here](https://developers.bookwalker.jp/entry/2023/02/17/200000#%E8%82%B2%E5%85%90%E4%BC%91%E6%A5%AD%E3%81%AE%E5%8F%96%E5%BE%97)||
 | [株式会社マイベスト](https://my-best.com/company) | おすすめ情報サービス「[mybest](https://my-best.com/)」 | [here](https://note.com/rince/n/nab2fc8e6e035) | [あり](https://tsushin.my-best.com/articles/039) |
+| [株式会社ウエディングパーク](https://www.weddingpark.co.jp/) | 結婚式場クチコミ情報サイト「[ウエディングパーク](https://www.weddingpark.net/)」、フォトウエディング専門クチコミ情報サイト「[フォトレイト](https://www.photorait.net/)」など | [here](https://takedajs.hatenablog.jp/entry/2022/04/30/133844) ||
 |[株式会社おいしい健康](https://corp.oishi-kenko.com/)|[おいしい健康](https://oishi-kenko.com/)の開発、運営、ITを活用したヘルスケア事業、生活メディア事業|[here](https://oishi-kenko.hatenablog.com/entry/2023/06/16/104943)||
 
 ## Contributing
