@@ -60,6 +60,7 @@
 | [株式会社マイベスト](https://my-best.com/company) | おすすめ情報サービス「[mybest](https://my-best.com/)」 | [here](https://note.com/rince/n/nab2fc8e6e035) | [あり](https://tsushin.my-best.com/articles/039) |
 | [株式会社ウエディングパーク](https://www.weddingpark.co.jp/) | 結婚式場クチコミ情報サイト「[ウエディングパーク](https://www.weddingpark.net/)」、フォトウエディング専門クチコミ情報サイト「[フォトレイト](https://www.photorait.net/)」など | [here](https://takedajs.hatenablog.jp/entry/2022/04/30/133844) ||
 |[株式会社おいしい健康](https://corp.oishi-kenko.com/)|[おいしい健康](https://oishi-kenko.com/)の開発、運営、ITを活用したヘルスケア事業、生活メディア事業|[here](https://oishi-kenko.hatenablog.com/entry/2023/06/16/104943)||
+| [クラスメソッド株式会社](https://classmethod.jp/) | クラウド、デジタル化、データに関する技術支援、[Zenn](https://zenn.dev/)など | [here](https://dev.classmethod.jp/articles/4-months-have-passed-since-i-took-childcare-leave-for-1-year/) ||
 
 ## Contributing
 
