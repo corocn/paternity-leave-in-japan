@@ -62,6 +62,7 @@
 |[株式会社おいしい健康](https://corp.oishi-kenko.com/)|[おいしい健康](https://oishi-kenko.com/)の開発、運営、ITを活用したヘルスケア事業、生活メディア事業|[here](https://oishi-kenko.hatenablog.com/entry/2023/06/16/104943)||
 | [クラスメソッド株式会社](https://classmethod.jp/) | クラウド、デジタル化、データに関する技術支援、[Zenn](https://zenn.dev/)など | [here](https://dev.classmethod.jp/articles/4-months-have-passed-since-i-took-childcare-leave-for-1-year/) ||
 | [Fastly K. K.](https://www.fastly.com/jp/) | CDN, WAF, Edge Computingなど | [here](https://gfx.hatenablog.com/entry/2023/09/07/235928) ||
+| [株式会社RevComm](https://www.revcomm.co.jp/) | 音声解析AI搭載型のIP電話「[MiiTel](https://miitel.com/jp/)」  | [here](https://note.com/revcomm_miitel/n/n610f26952569) ||
 
 ## Contributing
 
