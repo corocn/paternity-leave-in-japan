@@ -63,6 +63,7 @@
 | [クラスメソッド株式会社](https://classmethod.jp/) | クラウド、デジタル化、データに関する技術支援、[Zenn](https://zenn.dev/)など | [here](https://dev.classmethod.jp/articles/4-months-have-passed-since-i-took-childcare-leave-for-1-year/) ||
 | [Fastly K. K.](https://www.fastly.com/jp/) | CDN, WAF, Edge Computingなど | [here](https://gfx.hatenablog.com/entry/2023/09/07/235928) ||
 | [株式会社RevComm](https://www.revcomm.co.jp/) | 音声解析AI搭載型のIP電話「[MiiTel](https://miitel.com/jp/)」  | [here](https://note.com/revcomm_miitel/n/n610f26952569) ||
+|[株式会社クラッソーネ](https://www.crassone.co.jp/)|解体工事会社と施主をマッチングする無料一括見積りサービス「[クラッソーネ](https://www.crassone.jp/)」|[here](https://tech.crassone.jp/posts/childcare-leave)||
 
 ## Contributing
 
