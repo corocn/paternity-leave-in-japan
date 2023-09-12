@@ -65,6 +65,7 @@
 | [株式会社RevComm](https://www.revcomm.co.jp/) | 音声解析AI搭載型のIP電話「[MiiTel](https://miitel.com/jp/)」  | [here](https://note.com/revcomm_miitel/n/n610f26952569) ||
 |[株式会社クラッソーネ](https://www.crassone.co.jp/)|解体工事会社と施主をマッチングする無料一括見積りサービス「[クラッソーネ](https://www.crassone.jp/)」|[here](https://tech.crassone.jp/posts/childcare-leave)||
 |[株式会社CureApp](https://cureapp.co.jp/)|ニコチン依存症や高血圧領域の医療機関向け「[治療アプリ](https://cureapp.co.jp/product.html)」、民間向けのモバイルヘルスプログラム「[ascure](https://cureapp.co.jp/corporations.html)」など|[here](https://zenn.dev/cureapp/articles/e85767d83a3cca)||
+|[株式会社FOLIO](https://corp.folio-sec.com/thespecialone/)|AI投資 ROBOPRO、toB向けSaaS 4RAPなど|[here](https://note.com/foliobackstage/n/n06e5effe0295)||
 
 ## Contributing
 
