@@ -66,6 +66,7 @@
 |[株式会社クラッソーネ](https://www.crassone.co.jp/)|解体工事会社と施主をマッチングする無料一括見積りサービス「[クラッソーネ](https://www.crassone.jp/)」|[here](https://tech.crassone.jp/posts/childcare-leave)||
 |[株式会社CureApp](https://cureapp.co.jp/)|ニコチン依存症や高血圧領域の医療機関向け「[治療アプリ](https://cureapp.co.jp/product.html)」、民間向けのモバイルヘルスプログラム「[ascure](https://cureapp.co.jp/corporations.html)」など|[here](https://zenn.dev/cureapp/articles/e85767d83a3cca)||
 |[株式会社マクアケ](https://www.makuake.co.jp/)|アタラシイものや体験の応援購入サービス「[Makuake](https://www.makuake.com/)」など|[here](https://note.com/dev_makuake/n/n4c71ee15c92f)||
+| [株式会社オーバードライブ](https://corp.hoobby.net/) | ボードゲーム専門の総合情報サイト「[ボドゲーマ](https://bodoge.hoobby.net/)」、ボードゲームに特化したクラウドファンディングサイト「[ボドファン](https://bodofun.hoobby.net/)」など| [here](https://note.com/sakumenx/n/nd39b443b602f) ||
 
 ## Contributing
 
