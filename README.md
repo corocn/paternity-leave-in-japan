@@ -69,6 +69,7 @@
 | [株式会社オーバードライブ](https://corp.hoobby.net/) | ボードゲーム専門の総合情報サイト「[ボドゲーマ](https://bodoge.hoobby.net/)」、ボードゲームに特化したクラウドファンディングサイト「[ボドファン](https://bodofun.hoobby.net/)」など| [here](https://note.com/sakumenx/n/nd39b443b602f) ||
 | [株式会社カケハシ](https://www.kakehashi.life/)| 薬局SaaS[「Musubi」](https://musubi.kakehashi.life/)。そのほか患者フォローシステム[「Pocket Musubi」]((https://musubi.kakehashi.life/pocket-musubi))など薬局関連サービスを複数展開。| [here](https://kakehashi-dev.hatenablog.com/entry/2023/12/14/090000) | |
 | [株式会社スタートアップテクノロジー](https://www.startup-technology.com/) | 超実践型エンジニア育成スクール「[RUNTEQ](https://runteq.jp/)」、完全成果報酬型人材紹介サービス「[RUNTEQ AGENT](https://agent.runteq.jp/)」、開発支援サービス「[FastDev](https://www.startup-technology.com/service-fastdev)」、クラウド構築支援サービス「[BeCloud](https://www.startup-technology.com/service-becloud)」 | [here](https://www.startup-technology.com/infomation/interview-dadlee) ||
+| [paiza株式会社](https://www.paiza.co.jp/)| 「[paiza](https://paiza.jp/)」は、国内最大のITエンジニア向け転職・就職・学習プラットフォームを企画、運営 | [here](https://note.com/paiza/n/n13394880f9a8) | |
 
 ## Contributing
 
