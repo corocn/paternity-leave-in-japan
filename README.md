@@ -70,6 +70,7 @@
 | [株式会社カケハシ](https://www.kakehashi.life/)| 薬局SaaS[「Musubi」](https://musubi.kakehashi.life/)。そのほか患者フォローシステム[「Pocket Musubi」]((https://musubi.kakehashi.life/pocket-musubi))など薬局関連サービスを複数展開。| [here](https://kakehashi-dev.hatenablog.com/entry/2023/12/14/090000) | |
 | [株式会社スタートアップテクノロジー](https://www.startup-technology.com/) | 超実践型エンジニア育成スクール「[RUNTEQ](https://runteq.jp/)」、完全成果報酬型人材紹介サービス「[RUNTEQ AGENT](https://agent.runteq.jp/)」、開発支援サービス「[FastDev](https://www.startup-technology.com/service-fastdev)」、クラウド構築支援サービス「[BeCloud](https://www.startup-technology.com/service-becloud)」 | [here](https://www.startup-technology.com/infomation/interview-dadlee) ||
 | [paiza株式会社](https://www.paiza.co.jp/)| 「[paiza](https://paiza.jp/)」は、国内最大のITエンジニア向け転職・就職・学習プラットフォームを企画、運営 | [here](https://note.com/paiza/n/n13394880f9a8) | |
+| [メドピア株式会社](https://medpeer.co.jp/) | 医師専用コミュニティサイト「[MedPeer](https://medpeer.jp/about)」をはじめとした医療従事者向けプラットフォームやコンシューマー向けヘルスケアサービスの運営 | [here](https://jobseek.ne.jp/corporate-data/medpeer/) | [あり](https://speakerdeck.com/medpeer_recruit/medopiagurupushao-jie-zi-liao) |
 
 ## Contributing
 
