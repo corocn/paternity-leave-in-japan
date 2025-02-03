@@ -72,6 +72,7 @@
 | [paiza株式会社](https://www.paiza.co.jp/)| 「[paiza](https://paiza.jp/)」は、国内最大のITエンジニア向け転職・就職・学習プラットフォームを企画、運営 | [here](https://note.com/paiza/n/n13394880f9a8) | |
 | [メドピア株式会社](https://medpeer.co.jp/) | 医師専用コミュニティサイト「[MedPeer](https://medpeer.jp/about)」をはじめとした医療従事者向けプラットフォームやコンシューマー向けヘルスケアサービスの運営 | [here](https://jobseek.ne.jp/corporate-data/medpeer/) | [あり](https://speakerdeck.com/medpeer_recruit/medopiagurupushao-jie-zi-liao) |
 | [株式会社SmartHR](https://smarthr.co.jp/) | クラウド人事労務ソフト「[SmartHR](https://smarthr.jp/)」の開発 | [here](https://tech.smarthr.jp/entry/2024/08/07/101538) | [あり](https://recruit.smarthr.co.jp/environment/) |
+| [株式会社スマートラウンド](https://jp.smartround.com/corporate) | スタートアップと投資家の業務を効率化するデータ作成・共有プラットフォームSaaS「[smartround](https://jp.smartround.com/)」の開発・提供 | [here](https://note.com/smartround/n/ne009df92ac9b) | |
 
 ## Contributing
 
