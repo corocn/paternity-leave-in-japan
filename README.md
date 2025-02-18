@@ -52,7 +52,7 @@
 | [ビビッドガーデン](https://vivid-garden.co.jp/) | 産直通販サイト[食べチョク](http://tabechoku.com/) | [here](https://twitter.com/hirashunshun/status/1408906897856425985) ||
 | [Kyash](https://www.kyash.co/) | デジタルウォレットアプリ[Kyash](https://www.kyash.co/) | [here](https://blog.pranc1ngpegasus.com/entry/2021/08/31/100000) ||
 | [カラクリ](https://karakuri-ai.co.jp/) | カスタマーサポート（CS）領域に特化したAIソリューション[KARAKURI](https://karakuri.ai/) | [here](https://twitter.com/yos1up/status/1400283732070653956) ||
-| [Leaner Technologies](https://leaner.co.jp/) | Leaner見積など | [here](https://zenn.dev/leaner_tech/articles/20211119-paternity_leave) | [あり](https://leaner.co.jp/210913/) |
+| [Leaner Technologies](https://leaner.co.jp/) | Leaner見積など | [here](https://zenn.dev/leaner_tech/articles/20211119-paternity_leave) | [あり](https://careers.leaner.co.jp/care-for-leaners#block-10ba01c476bd4c9690bb55fac0d2eded) |
 |[BASE株式会社](https://binc.jp/)|ネットショップ開設実績4年連続No.1のEコマースプラットフォーム「BASE」、オンライン決済サービス「PAY.JP」、ID決済サービス「PAY ID」 を企画・開発・運営|[here](https://devblog.thebase.in/entry/2019/12/01/090000)||
 |[株式会社コドモン](https://www.codmon.co.jp/)|こども施設向けICTシステム「コドモン」、保育者採用支援サービス「ホイシル」など|[here](https://newscast.jp/news/4351656)||
 |[ビットバンク株式会社](https://bitbank.cc/)| 暗号資産取引所 |[here](https://bitbank-recruit.notion.site/8eba9528836e415f9561ccf13248c7f1)||
